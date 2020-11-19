@@ -7,6 +7,7 @@
 .book__goback_btn{
   padding: 6px 12px;
   margin: 0 0 20px 40px;
+  cursor: pointer;
 }
 
 .book__description{
