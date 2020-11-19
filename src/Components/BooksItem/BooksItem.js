@@ -11,7 +11,7 @@ import {selectBook} from "../../redux/actions/selectBookAction";
 const useStyles = makeStyles({
   root: {
     minWidth: 240,
-    marginBottom: 20,
+    margin: "0 10px 40px 10px",
     cursor: "pointer",
   },
   title: {
