@@ -1,0 +1,44 @@
+.book{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.book__goback_btn{
+  padding: 6px 12px;
+  margin: 0 0 20px 40px;
+}
+
+.book__description{
+  padding: 0 20px;
+  margin-bottom: 14px;  
+}
+
+.book__name{
+margin-bottom: 10px;
+text-decoration: underline;
+}
+
+.book__author,
+.book__pages,
+.book__publisher,
+.book__type{
+  display: block;
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(70, 68, 68);
+}
+
+.book__author,
+.book__pages,
+.book__publisher{
+  margin-bottom: 6px;
+}
+
+.book__characters{
+  padding: 0 20px;
+}
+
+.book__characters_title{
+  text-decoration: underline;
+}

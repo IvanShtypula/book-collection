@@ -1,0 +1,14 @@
+.header{
+  height: 160px;
+  background-image: url("../../helpers/images/header_img.jpg");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  margin-bottom: 30px;
+}
+
+.header__title{
+  color: rgb(228, 220, 220);
+  text-align: center;
+  line-height: 160px;
+}
