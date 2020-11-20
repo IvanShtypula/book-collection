@@ -7,6 +7,7 @@ import CardContent from "@material-ui/core/CardContent";
 import Typography from "@material-ui/core/Typography";
 
 import {selectBook} from "../../redux/actions/selectBookAction";
+import { red } from "@material-ui/core/colors";
 
 const useStyles = makeStyles({
   root: {
@@ -16,6 +17,8 @@ const useStyles = makeStyles({
   },
   title: {
     fontSize: 16,
+    fontWeight: 600,
+    textDecoration: "underline",   
   },
   pos: {
     marginBottom: 12,
