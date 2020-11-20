@@ -42,4 +42,5 @@ text-decoration: underline;
 
 .book__characters_title{
   text-decoration: underline;
+  margin-bottom: 10px;
 }
