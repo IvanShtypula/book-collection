@@ -25,7 +25,7 @@ text-decoration: underline;
 .book__publisher,
 .book__type{
   display: block;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 600;
   color: rgb(70, 68, 68);
 }
